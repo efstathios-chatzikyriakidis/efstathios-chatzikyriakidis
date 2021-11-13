@@ -1,10 +1,10 @@
 [![Header](https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/header-image.png "Header")](https://efxa.org/)
 
-# Hello, folks! <img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/hand-wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/hand-wave.gif" width="30">
 
 I am Efstathios, a computer scientist and a philosopher living in Greece. I have a passion for Software Engineering and Computational Intelligence.
 
-You can find me on [![LinkedIn](https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/linkedin-icon.png "LinkedIn")](https://www.linkedin.com/in/efstathioschatzikyriakidis)
+You can find me on <a href="https://www.linkedin.com/in/efstathioschatzikyriakidis"><img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/linkedin-icon.png" width="30"></a>
 
 <!--
 Here are some ideas to get you started:
