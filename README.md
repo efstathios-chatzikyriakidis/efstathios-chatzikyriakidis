@@ -26,7 +26,7 @@ You can find my curriculum vitae at [CV](https://efxa.org/curriculum-vitae/).
 
 ## 👨‍💻 Projects
 
-You can find my projects at [Projects](https://efxa.org/category/projects/).
+You can find my projects at [projects](https://efxa.org/category/projects/).
 
 <!--
 Here are some ideas to get you started:
