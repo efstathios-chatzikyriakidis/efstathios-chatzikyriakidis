@@ -12,7 +12,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=efstathios.chatzikyriakidis.github" hspace="5">
 </p>
 
-# <img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/hand-wave.gif" width="30"> Hello, folks!
+# Hello, folks! <img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/hand-wave.gif" width="30">
 
 I am Efstathios, a computer scientist and a philosopher living in Greece. I have a passion for Software Engineering and Computational Intelligence.
 
