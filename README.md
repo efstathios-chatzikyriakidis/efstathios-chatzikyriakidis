@@ -18,11 +18,52 @@ I am Efstathios, a computer scientist and a philosopher living in Greece. I have
 
 ## 💬 About
 
-In 2011 I received a B.Sc. degree in Informatics and Communications with a specialization in Software Engineering from the Technological Educational Institute of Central Macedonia, Greece. Additionally, in 2019 I received a M.Sc. degree in Informatics and Communications with a specialization in Computational Intelligence and Digital Media from the Aristotle University of Thessaloniki (AUTH), Greece.
+```python
+#!/usr/bin/python
 
-I have been working in the software development industry in Greece since 2010. Through these years I have gained professional experience in developing enterprise non-AI as well as AI software systems. Currently, I am working as a full-stack Machine / Deep Learning Engineer for Medoid AI and I have successfully managed to deliver various AI projects to clients worldwide both in cloud as well as on-premise environments.
+class EfstathiosChatzikyriakidis:
+    def __init__(self):
+        self.pronouns = ("He", "Him")
 
-You can find more information about me at [about](https://efxa.org/about/).
+        self.roles = (
+          "Machine Learning Engineer",
+          "Deep Learning Engineer",
+          "Senior Software Engineer"
+        )
+        
+        self.languages = ("el_GR", "en_US")
+        
+        self.industry_experience_in_years = "10+"
+        
+        self.interest_topics = ("Deep Learning", "Machine Learning", "NLP", "Computer Vision", "Computational Intelligence")
+
+        self.values = ("Respect", "Trust", "Passion", "Teamwork", "Quality", "Integrity", "Leadership", "Continuous Learning")
+        
+        self.skills = ("Ability to think critically", "Work independently", "Adapt easily", "Think abstractly" "Fitting well into a team")
+
+        self.bsc_studies = [
+          {
+            "degree" : "BSc",
+            "specialization": "Software Engineering",
+            "department": "Informatics and Communications",
+            "university": "Technological Educational Institute of Central Macedonia"
+          },
+          {
+            "degree" : "MSc",
+            "specialization": "Computational Intelligence and Digital Media",
+            "department": "Informatics and Communications",
+            "university": "Aristotle University of Thessaloniki (AUTH)"
+          },
+        ]
+
+        self.personal_website = "https://efxa.org/"
+
+    def hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+me = EfstathiosChatzikyriakidis()
+me.hi()
+```
 
 ## ✍️ Blog & Writing
 
