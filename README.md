@@ -33,14 +33,6 @@ class EfstathiosChatzikyriakidis:
 
         self.languages = ("el_GR", "en_US")
 
-        self.industry_experience_in_years = "10+"
-
-        self.interest_topics = ("Deep Learning", "Machine Learning", "NLP", "Computer Vision", "Computational Intelligence")
-
-        self.values = ("Respect", "Trust", "Passion", "Teamwork", "Quality", "Integrity", "Leadership", "Continuous Learning")
-
-        self.skills = ("Ability to think critically", "Work independently", "Adapt easily", "Think abstractly" "Fitting well into a team")
-
         self.bsc_studies = [
           {
             "degree" : "BSc",
@@ -53,12 +45,43 @@ class EfstathiosChatzikyriakidis:
             "specialization": "Computational Intelligence and Digital Media",
             "department": "Informatics and Communications",
             "university": "Aristotle University of Thessaloniki (AUTH)"
-          },
+          }
         ]
+
+        self.industry_experience_in_years = "10+"
+
+        self.interest_topics = (
+          "Deep Learning",
+          "Machine Learning",
+          "NLP",
+          "Computer Vision",
+          "Computational Intelligence",
+          "Software Engineering",
+          "Cloud Native Technologies",
+        )
+
+        self.values = (
+          "Respect",
+          "Trust",
+          "Passion",
+          "Teamwork",
+          "Quality",
+          "Integrity",
+          "Leadership",
+          "Continuous Learning"
+        )
+
+        self.qualities = (
+          "Ability to think critically",
+          "Work independently",
+          "Adapt easily",
+          "Think abstractly",
+          "Fitting well into a team"
+        )
 
         self.personal_website = "https://efxa.org/"
 
-    def hi(self):
+  def hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 me = EfstathiosChatzikyriakidis()
