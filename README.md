@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/header_image.png)
+![Banner Image](https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/header-image.png)
 
 ### Hi there 👋 Efstathios here!
 
