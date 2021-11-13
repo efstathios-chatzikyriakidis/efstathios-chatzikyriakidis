@@ -22,7 +22,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 📃 Curriculum Vitae
 
-You can find my personal curriculum vitae at [Google Drive](https://drive.google.com/file/d/19Yw7goaHQWgKceOPJ3xFnjMYU313_iEh/view).
+You can find my personal curriculum vitae at [CV](https://efxa.org/curriculum-vitae/).
 
 <!--
 Here are some ideas to get you started:
