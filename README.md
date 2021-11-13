@@ -4,7 +4,7 @@
 
 I am Efstathios, a computer scientist and a philosopher living in Greece. I have a passion for Software Engineering and Computational Intelligence.
 
-You can find me on <a href="https://www.linkedin.com/in/efstathioschatzikyriakidis"><img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/linkedin-icon.png" width="30"></a>
+You can find me on <a href="https://www.linkedin.com/in/efstathioschatzikyriakidis"><img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/linkedin-icon.png" width="15"></a>
 
 <!--
 Here are some ideas to get you started:
