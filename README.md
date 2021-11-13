@@ -16,7 +16,7 @@
 
 I am Efstathios, a computer scientist and a philosopher living in Greece. I have a passion for Software Engineering and Computational Intelligence.
 
-## &#x270d; Blog & Writing
+## ✍️ Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [efxa.org](https://efxa.org/).
 
