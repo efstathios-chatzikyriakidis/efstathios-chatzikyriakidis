@@ -12,7 +12,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=efstathios.chatzikyriakidis.github" hspace="5">
 </p>
 
-# Hello, folks! <img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/hand-wave.gif" width="30">
+# <img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/hand-wave.gif" width="30"> Hello, folks!
 
 I am Efstathios, a computer scientist and a philosopher living in Greece. I have a passion for Software Engineering and Computational Intelligence.
 
@@ -20,7 +20,7 @@ I am Efstathios, a computer scientist and a philosopher living in Greece. I have
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [efxa.org](https://efxa.org/).
 
-## Curriculum Vitae
+## <img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/cv-icon" width="30"> Curriculum Vitae
 
 You can find my personal curriculum vitae at [CV](https://efxa.org/curriculum-vitae/)
 
