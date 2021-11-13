@@ -5,12 +5,11 @@
   <a href= "https://efxa.org/"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/globe-icon.svg" style="margin-right: 25px;"></a>
   <a href= "https://www.linkedin.com/in/efstathioschatzikyriakidis"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/linkedin-icon.svg" style="margin-right: 25px;"></a>
   <a href= "https://github.com/efstathios-chatzikyriakidis"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/github-icon.svg"></a>
+![GitHub Followers](https://img.shields.io/github/followers/efstathios-chatzikyriakidis?label=Follow&style=social)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=efstathios.chatzikyriakidis.github)
 </p>
 
 # Hello, folks! <img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/hand-wave.gif" width="30">
-
-![GitHub Followers](https://img.shields.io/github/followers/efstathios-chatzikyriakidis?label=Follow&style=social)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=efstathios.chatzikyriakidis.github)
 
 I am Efstathios, a computer scientist and a philosopher living in Greece. I have a passion for Software Engineering and Computational Intelligence.
 
