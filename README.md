@@ -1,14 +1,14 @@
 [![Header](https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/header-image.png "Header")](https://efxa.org/)
 
 <p align="center">
-  <a href= "https://efxa.org/contact/"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/email-icon.svg" hspace="20"></a>
-  <a href= "https://efxa.org/"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/globe-icon.svg"></a>
-  <a href= "https://www.linkedin.com/in/efstathioschatzikyriakidis"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/linkedin-icon.svg"></a>
+  <a href= "https://efxa.org/contact/"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/email-icon.svg" hspace="10"></a>
+  <a href= "https://efxa.org/"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/globe-icon.svg" hspace="10"></a>
+  <a href= "https://www.linkedin.com/in/efstathioschatzikyriakidis"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/linkedin-icon.svg" hspace="10"></a>
   <a href= "https://github.com/efstathios-chatzikyriakidis"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/github-icon.svg"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/efstathios-chatzikyriakidis?label=Follow&style=social">
+  <img src="https://img.shields.io/github/followers/efstathios-chatzikyriakidis?label=Follow&style=social" hspace="10">
   <img src="https://visitor-badge.glitch.me/badge?page_id=efstathios.chatzikyriakidis.github">
 </p>
 
