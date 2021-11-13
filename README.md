@@ -22,7 +22,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 📃 Curriculum Vitae
 
-You can find my personal curriculum vitae at [CV](https://efxa.org/curriculum-vitae/).
+You can find my curriculum vitae at [CV](https://efxa.org/curriculum-vitae/).
+
+## Projects
+
+You can find my projects at [Projects](https://efxa.org/category/projects/).
 
 <!--
 Here are some ideas to get you started:
