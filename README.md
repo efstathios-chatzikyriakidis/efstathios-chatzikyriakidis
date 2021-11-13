@@ -20,7 +20,7 @@ I am Efstathios, a computer scientist and a philosopher living in Greece. I have
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [efxa.org](https://efxa.org/).
 
-## <img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/cv-icon.png" width="30"> Curriculum Vitae
+## 📃 Curriculum Vitae
 
 You can find my personal curriculum vitae at [CV](https://efxa.org/curriculum-vitae/)
 
