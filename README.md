@@ -1,8 +1,8 @@
-### Hi there 👋
+![Banner Image](https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/header_image.png)
+
+### Hi there 👋 Efstathios here!
 
 <!--
-**efstathios-chatzikyriakidis/efstathios-chatzikyriakidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
