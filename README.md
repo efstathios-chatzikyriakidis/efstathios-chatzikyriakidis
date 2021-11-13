@@ -18,21 +18,11 @@ I am Efstathios, a computer scientist and a philosopher living in Greece. I have
 
 ## 💬 About
 
-In 2011 I received a B.Sc. degree in Informatics and Communications with a specialization in Software Engineering from the Technological Educational Institute of Central Macedonia, Greece.
+In 2011 I received a B.Sc. degree in Informatics and Communications with a specialization in Software Engineering from the Technological Educational Institute of Central Macedonia, Greece. Additionally, in 2019 I received a M.Sc. degree in Informatics and Communications with a specialization in Computational Intelligence and Digital Media from the Aristotle University of Thessaloniki (AUTH), Greece.
 
-Additionally, in 2019 I received a M.Sc. degree in Informatics and Communications with a specialization in Computational Intelligence and Digital Media from the Aristotle University of Thessaloniki (AUTH), Greece.
+I have been working in the software development industry in Greece since 2010. Through these years I have gained professional experience in developing enterprise non-AI as well as AI software systems. Currently, I am working as a full-stack Machine / Deep Learning Engineer for Medoid AI and I have successfully managed to deliver various AI projects to clients worldwide both in cloud as well as on-premise environments.
 
-I have been working in the software development industry in Greece since 2010. Through these years I have gained professional experience in developing enterprise non-AI as well as AI software systems.
-
-Specifically, I have been employed as a Software Quality Assurance Tester, Software Engineer and Software Quality Assurance Engineer in the R&D department of Voyager Software Solutions, as a Software Engineer and Senior Software Engineer / Team Leader in the R&D department of nlg GmbH and as Lead Full Stack Software Engineer in the R&D department of DRAXIS Environmental S.A.
-
-Currently, I am working as a full-stack Machine / Deep Learning Engineer for Medoid AI and I have successfully managed to deliver various AI projects to clients worldwide both in cloud as well as on-premise environments.
-
-In general, I am always focusing on creating testable and maintainable software as well as scalable and high-available systems. My main qualities are the ability to think critically, work independently, adapt easily, think abstractly and fitting well into a team.
-
-My research interests include Machine Learning, Deep Learning and more broadly Computational Intelligence. My future goal is to become an expert Machine Learning Engineer / Researcher and I am actively seeking opportunities.
-
-I speak English fluently and the native Greek language. In my free time I like to travel, spend time with my family and read Ancient Greek Philosophy.
+You can find more information about me at [about](https://efxa.org/about/).
 
 ## ✍️ Blog & Writing
 
