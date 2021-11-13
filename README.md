@@ -9,9 +9,7 @@
 
 # Hello, folks! <img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/hand-wave.gif" width="30">
 
-[![Linkedin: efstathioschatzikyriakidis](https://img.shields.io/badge/-efstathioschatzikyriakidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efstathioschatzikyriakidis/)](https://www.linkedin.com/in/efstathioschatzikyriakidis/)
 ![GitHub Followers](https://img.shields.io/github/followers/efstathios-chatzikyriakidis?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://efxa.org/)](https://efxa.org/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=efstathios.chatzikyriakidis.github)
 
 I am Efstathios, a computer scientist and a philosopher living in Greece. I have a passion for Software Engineering and Computational Intelligence.
