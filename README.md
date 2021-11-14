@@ -14,7 +14,7 @@
 
 # 👋 Hello, folks!
 
-I am Efstathios, a computer scientist and a philosopher living in Greece. I have a passion for Software Engineering and Computational Intelligence.
+I am <a href= "https://efxa.org/">Efstathios Chatzikyriakidis</a>, a computer scientist and a philosopher living in Greece. I have a passion for Software Engineering and Computational Intelligence.
 
 ## 💬 About
 
