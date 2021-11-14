@@ -127,3 +127,13 @@ You can find my projects at [projects](https://efxa.org/category/projects/).
 <a href="https://github.com/efstathios-chatzikyriakidis/ts-changepoint-detection-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=ts-changepoint-detection-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ts-changepoint-detection-app" />
 </a>
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efstathios.chatzikyriakidis&hide_langs_below=18&line_height=27&layout=compact&title_color=29315F&text_color=29315F&hide_border=True" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=efstathios.chatzikyriakidis&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" />
+
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=efstathios.chatzikyriakidis&column=7&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" />
+</p>
