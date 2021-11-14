@@ -20,6 +20,7 @@ I am <a href= "https://efxa.org/">Efstathios Chatzikyriakidis</a>, a computer sc
 
 ```python
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 class EfstathiosChatzikyriakidis:
     def __init__(self):
