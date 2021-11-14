@@ -101,3 +101,29 @@ You can find my curriculum vitae at [CV](https://efxa.org/curriculum-vitae/).
 ## 👨‍💻 Projects
 
 You can find my projects at [projects](https://efxa.org/category/projects/).
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/efstathios-chatzikyriakidis/skrobot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=skrobot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="skrobot" />
+</a>
+
+<a href="https://github.com/efstathios-chatzikyriakidis/computational-intelligence-research">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=computational-intelligence-research&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="computational-intelligence-research" />
+</a>
+
+<a href="https://github.com/efstathios-chatzikyriakidis/adversarial-face-de-identification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=adversarial-face-de-identification&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="adversarial-face-de-identification" />
+</a>
+
+<a href="https://github.com/efstathios-chatzikyriakidis/content-based-image-retrieval">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=content-based-image-retrieval&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="content-based-image-retrieval" />
+</a>
+
+<a href="https://github.com/efstathios-chatzikyriakidis/nature-inspired-sudoku-solver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=nature-inspired-sudoku-solver&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nature-inspired-sudoku-solver" />
+</a>
+
+<a href="https://github.com/efstathios-chatzikyriakidis/ts-changepoint-detection-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=ts-changepoint-detection-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ts-changepoint-detection-app" />
+</a>
