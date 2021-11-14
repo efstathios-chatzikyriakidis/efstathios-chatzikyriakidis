@@ -29,7 +29,6 @@ class EfstathiosChatzikyriakidis:
         self.roles = (
           "Machine Learning Engineer",
           "Deep Learning Engineer",
-          "Data Scientist",
           "Senior Software Engineer"
         )
 
