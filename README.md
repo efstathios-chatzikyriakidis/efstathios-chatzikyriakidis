@@ -82,8 +82,8 @@ class EfstathiosChatzikyriakidis:
           "Fitting well into a team"
         )
 
-  def hi(self):
-      print("Thanks for dropping by, hope you find some of my work interesting.")
+    def hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
 me = EfstathiosChatzikyriakidis()
 me.hi()
