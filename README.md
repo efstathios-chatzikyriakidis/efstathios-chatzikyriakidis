@@ -28,12 +28,13 @@ class EfstathiosChatzikyriakidis:
         self.roles = (
           "Machine Learning Engineer",
           "Deep Learning Engineer",
+          "Data Scientist",
           "Senior Software Engineer"
         )
 
         self.languages = ("el_GR", "en_US")
 
-        self.bsc_studies = [
+        self.studies = [
           {
             "degree" : "BSc",
             "specialization": "Software Engineering",
@@ -49,6 +50,8 @@ class EfstathiosChatzikyriakidis:
         ]
 
         self.industry_experience_in_years = "10+"
+
+        self.personal_website = "https://efxa.org/"
 
         self.interest_topics = (
           "Deep Learning",
@@ -79,8 +82,6 @@ class EfstathiosChatzikyriakidis:
           "Fitting well into a team"
         )
 
-        self.personal_website = "https://efxa.org/"
-
   def hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
@@ -99,16 +100,3 @@ You can find my curriculum vitae at [CV](https://efxa.org/curriculum-vitae/).
 ## 👨‍💻 Projects
 
 You can find my projects at [projects](https://efxa.org/category/projects/).
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
