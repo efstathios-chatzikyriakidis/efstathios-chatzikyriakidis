@@ -89,17 +89,17 @@ me = EfstathiosChatzikyriakidis()
 me.hi()
 ```
 
-## ✍️ Blog & Writing
+## 👨‍💻 Projects
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [efxa.org](https://efxa.org/).
+You can find my projects at [projects](https://efxa.org/category/projects/).
 
 ## 📃 Curriculum Vitae
 
 You can find my curriculum vitae at [CV](https://efxa.org/curriculum-vitae/).
 
-## 👨‍💻 Projects
+## ✍️ Blog & Writing
 
-You can find my projects at [projects](https://efxa.org/category/projects/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [efxa.org](https://efxa.org/).
 
 ## 🗂️ Highlight Projects
 
