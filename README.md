@@ -128,7 +128,7 @@ You can find my projects at [projects](https://efxa.org/category/projects/).
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=ts-changepoint-detection-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ts-changepoint-detection-app" />
 </a>
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efstathios-chatzikyriakidis&hide_langs_below=18&line_height=27&layout=compact&title_color=29315F&text_color=29315F&hide_border=True" />
