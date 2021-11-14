@@ -133,7 +133,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=efstathios-chatzikyriakidis&column=7&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efstathios-chatzikyriakidis&hide_langs_below=18&line_height=27&layout=compact&title_color=29315F&text_color=29315F&hide_border=True" />
