@@ -66,8 +66,8 @@ class EfstathiosChatzikyriakidis:
         self.values = (
           "Respect",
           "Trust",
-          "Passion",
           "Teamwork",
+          "Passion",
           "Quality",
           "Integrity",
           "Leadership",
