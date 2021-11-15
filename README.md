@@ -1,4 +1,4 @@
-[![](https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/header-image.png)](https://efxa.org/)
+<img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/header-image.png" />
 
 <p align="center">
   <a href= "https://efxa.org/contact/"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/email-icon.svg" hspace="5"></a>
