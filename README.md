@@ -127,6 +127,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=ts-changepoint-detection-app&show_icons=true&line_height=27" alt="ts-changepoint-detection-app" />
 </a>
 
+<p align="left">
+  <a href="https://github.com/efstathios-chatzikyriakidis?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" /></a>
+</p>
+
 ## 🏆 Trophies
 
 <p align="center">
