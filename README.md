@@ -108,23 +108,23 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 
 <a href="https://github.com/efstathios-chatzikyriakidis/computational-intelligence-research">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=computational-intelligence-research&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="computational-intelligence-research" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=computational-intelligence-research&show_icons=true&line_height=27" alt="computational-intelligence-research" />
 </a>
 
 <a href="https://github.com/efstathios-chatzikyriakidis/adversarial-face-de-identification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=adversarial-face-de-identification&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="adversarial-face-de-identification" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=adversarial-face-de-identification&show_icons=true&line_height=27" alt="adversarial-face-de-identification" />
 </a>
 
 <a href="https://github.com/efstathios-chatzikyriakidis/content-based-image-retrieval">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=content-based-image-retrieval&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="content-based-image-retrieval" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=content-based-image-retrieval&show_icons=true&line_height=27" alt="content-based-image-retrieval" />
 </a>
 
 <a href="https://github.com/efstathios-chatzikyriakidis/nature-inspired-sudoku-solver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=nature-inspired-sudoku-solver&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nature-inspired-sudoku-solver" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=nature-inspired-sudoku-solver&show_icons=true&line_height=27" alt="nature-inspired-sudoku-solver" />
 </a>
 
 <a href="https://github.com/efstathios-chatzikyriakidis/ts-changepoint-detection-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=ts-changepoint-detection-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ts-changepoint-detection-app" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=ts-changepoint-detection-app&show_icons=true&line_height=27" alt="ts-changepoint-detection-app" />
 </a>
 
 ## 🏆 Trophies
@@ -136,7 +136,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## 📊 Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efstathios-chatzikyriakidis&hide_langs_below=18&line_height=27&layout=compact&title_color=29315F&text_color=29315F&hide_border=True" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efstathios-chatzikyriakidis&hide_langs_below=18&line_height=27&layout=compact&hide_border=True" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=efstathios-chatzikyriakidis&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=efstathios-chatzikyriakidis&show_icons=true&count_private=true&include_all_commits=true&line_height=21&hide_border=True" />
 </p>
