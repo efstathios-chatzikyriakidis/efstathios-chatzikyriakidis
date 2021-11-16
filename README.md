@@ -130,7 +130,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## 🏆 Trophies
 
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=efstathios-chatzikyriakidis&column=7&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=efstathios-chatzikyriakidis&column=7&hide_border=True" />
 </p>
 
 ## 📊 Stats
