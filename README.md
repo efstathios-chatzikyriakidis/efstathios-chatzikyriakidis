@@ -104,7 +104,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/efstathios-chatzikyriakidis/skrobot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=skrobot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="skrobot" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=skrobot&show_icons=true&line_height=27" alt="skrobot" />
 </a>
 
 <a href="https://github.com/efstathios-chatzikyriakidis/computational-intelligence-research">
