@@ -1,4 +1,6 @@
-<img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/header-image.png" />
+<p align="center">
+  <img src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/header-image.png" />
+</p>
 
 <p align="center">
   <a href= "https://efxa.org/contact/"><img height="40" src="https://github.com/efstathios-chatzikyriakidis/efstathios-chatzikyriakidis/blob/main/assets/email-icon.svg" hspace="5"></a>
@@ -103,32 +105,36 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/efstathios-chatzikyriakidis/skrobot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=skrobot&show_icons=true&line_height=27" alt="skrobot" />
-</a>
+<p align="left">
+  <a href="https://github.com/efstathios-chatzikyriakidis/skrobot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=skrobot&show_icons=true&line_height=27" alt="skrobot" />
+  </a>
 
-<a href="https://github.com/efstathios-chatzikyriakidis/computational-intelligence-research">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=computational-intelligence-research&show_icons=true&line_height=27" alt="computational-intelligence-research" />
-</a>
+  <a href="https://github.com/efstathios-chatzikyriakidis/computational-intelligence-research">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=computational-intelligence-research&show_icons=true&line_height=27" alt="computational-intelligence-research" />
+  </a>
 
-<a href="https://github.com/efstathios-chatzikyriakidis/adversarial-face-de-identification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=adversarial-face-de-identification&show_icons=true&line_height=27" alt="adversarial-face-de-identification" />
-</a>
+  <a href="https://github.com/efstathios-chatzikyriakidis/adversarial-face-de-identification">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=adversarial-face-de-identification&show_icons=true&line_height=27" alt="adversarial-face-de-identification" />
+  </a>
 
-<a href="https://github.com/efstathios-chatzikyriakidis/content-based-image-retrieval">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=content-based-image-retrieval&show_icons=true&line_height=27" alt="content-based-image-retrieval" />
-</a>
+  <a href="https://github.com/efstathios-chatzikyriakidis/content-based-image-retrieval">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=content-based-image-retrieval&show_icons=true&line_height=27" alt="content-based-image-retrieval" />
+  </a>
 
-<a href="https://github.com/efstathios-chatzikyriakidis/nature-inspired-sudoku-solver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=nature-inspired-sudoku-solver&show_icons=true&line_height=27" alt="nature-inspired-sudoku-solver" />
-</a>
+  <a href="https://github.com/efstathios-chatzikyriakidis/nature-inspired-sudoku-solver">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=nature-inspired-sudoku-solver&show_icons=true&line_height=27" alt="nature-inspired-sudoku-solver" />
+  </a>
 
-<a href="https://github.com/efstathios-chatzikyriakidis/ts-changepoint-detection-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=ts-changepoint-detection-app&show_icons=true&line_height=27" alt="ts-changepoint-detection-app" />
-</a>
+  <a href="https://github.com/efstathios-chatzikyriakidis/ts-changepoint-detection-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efstathios-chatzikyriakidis&repo=ts-changepoint-detection-app&show_icons=true&line_height=27" alt="ts-changepoint-detection-app" />
+  </a>
+</p>
 
 <p align="left">
-  <a href="https://github.com/efstathios-chatzikyriakidis?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" /></a>
+  <a href="https://github.com/efstathios-chatzikyriakidis?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" />
+  </a>
 </p>
 
 ## 🏆 Trophies
