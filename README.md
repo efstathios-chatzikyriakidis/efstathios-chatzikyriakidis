@@ -188,7 +188,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
 <p>
     <a href="https://www.mongodb.com/">                                 <img alt="MongoDB"                  src="https://img.shields.io/badge/MongoDB-14354C.svg"></a>
     <a href="https://www.microsoft.com/en-us/sql-server">               <img alt="Microsoft SQL Server"     src="https://img.shields.io/badge/Microsoft SQL Server-3471e3.svg"></a>
-    <a href="https://cloud.google.com/sql">                             <img alt="Cloud SQL (GCP)"          src="https://img.shields.io/badge/Cloud SQL (GCP)-D00000.svg"></a>
+    <a href="https://cloud.google.com/sql">                             <img alt="Google Cloud SQL"          src="https://img.shields.io/badge/Google Cloud SQL-D00000.svg"></a>
     <a href="https://www.mysql.com/">                                   <img alt="MySQL"                    src="https://img.shields.io/badge/MySQL-245227.svg"></a>
     <a href="https://www.postgresql.org/">                              <img alt="PostgreSQL"               src="https://img.shields.io/badge/PostgreSQL-FF6F00.svg"></a>
     <a href="https://neo4j.com/">                                       <img alt="Neo4j"                    src="https://img.shields.io/badge/Neo4j-14354C.svg"></a>
