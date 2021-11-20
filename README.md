@@ -248,7 +248,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
    <a href="https://about.gitlab.com/">                                             <img alt="GitLab"                                  src="https://img.shields.io/badge/GitLab-0f0ba7.svg"></a>
    <a href="https://www.nongnu.org/cvs/">                                           <img alt="CVS"                                     src="https://img.shields.io/badge/CVS-245227.svg"></a>
    <a href="https://subversion.apache.org/">                                        <img alt="Subversion"                              src="https://img.shields.io/badge/Subversion-FF6F00.svg"></a>
-   <a href="https://tortoisesvn.net/">                                              <img alt="Tortoise SVN"                            src="https://img.shields.io/badge/Tortoise SVn-85019b.svg"></a>
+   <a href="https://tortoisesvn.net/">                                              <img alt="Tortoise SVN"                            src="https://img.shields.io/badge/Tortoise SVN-85019b.svg"></a>
    <a href="https://www.nuget.org/">                                                <img alt="NuGet"                                   src="https://img.shields.io/badge/NuGet-a45969.svg"></a>
    <a href="https://www.jetbrains.com/phpstorm/">                                   <img alt="JetBrains PhpStorm"                      src="https://img.shields.io/badge/JetBrains PhpStorm-D00000.svg"></a>
    <a href="https://doc.qt.io/">                                                    <img alt="Qt SDK"                                  src="https://img.shields.io/badge/Qt SDK-3471e3.svg"></a>
