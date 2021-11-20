@@ -111,7 +111,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Apython">         <img alt="Python"           src="https://img.shields.io/badge/Python-85019b.svg"></a>
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Abash">           <img alt="Bash"             src="https://img.shields.io/badge/Bash-a45969.svg"></a>
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Amarkdown">       <img alt="Markdown"         src="https://img.shields.io/badge/Markdown-85019b.svg"></a>
-    <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Ac">              <img alt="C"                src="https://img.shields.io/badge/C-62254b.svg"></a>
+    <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Ac">              <img alt="C"                src="https://img.shields.io/badge/C-D00000.svg"></a>
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Acpp">            <img alt="C++"              src="https://img.shields.io/badge/C++-0f0ba7.svg"></a>
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Acsharp">         <img alt="C#"               src="https://img.shields.io/badge/C%23-3471e3.svg"></a>
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Acss">            <img alt="CSS"              src="https://img.shields.io/badge/CSS-14354C.svg"></a>
@@ -147,14 +147,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
     <a href="https://fastapi.tiangolo.com/">                                    <img alt="FastAPI"                      src="https://img.shields.io/badge/FastAPI-245227.svg"></a>
     <a href="https://huggingface.co/">                                          <img alt="Hugging Face Transformers"    src="https://img.shields.io/badge/Hugging Face Transformers-3471e3.svg"></a>
     <a href="https://www.nltk.org/">                                            <img alt="NLTK"                         src="https://img.shields.io/badge/NLTK-14354C.svg"></a>
-    <a href="https://matplotlib.org/">                                          <img alt="matplotlib"                   src="https://img.shields.io/badge/matplotlib-62254b.svg"></a>
+    <a href="https://matplotlib.org/">                                          <img alt="matplotlib"                   src="https://img.shields.io/badge/matplotlib-D00000.svg"></a>
     <a href="https://plotly.com/">                                              <img alt="Plotly"                       src="https://img.shields.io/badge/Plotly-FF6F00.svg"></a>
     <a href="https://www.arduino.cc/">                                          <img alt="Arduino"                      src="https://img.shields.io/badge/Arduino-14354C.svg"></a>
     <a href="https://getbootstrap.com/">                                        <img alt="Bootstrap"                    src="https://img.shields.io/badge/Bootstrap-85019b.svg"></a>
     <a href="https://pypi.org/project/swifter/">                                <img alt="swifter"                      src="https://img.shields.io/badge/swifter-3471e3.svg"></a>
     <a href="https://implicit.readthedocs.io/">                                 <img alt="implicit"                     src="https://img.shields.io/badge/implicit-0f0ba7.svg"></a>
     <a href="https://en.wikipedia.org/wiki/ASP.NET">                            <img alt="ASP.NET Framework"            src="https://img.shields.io/badge/ASP.NET Framework-14354C.svg"></a>
-    <a href="https://en.wikipedia.org/wiki/ASP.NET_MVC">                        <img alt="ASP.NET MVC"                  src="https://img.shields.io/badge/ASP.NET MVC-62254b.svg"></a>
+    <a href="https://en.wikipedia.org/wiki/ASP.NET_MVC">                        <img alt="ASP.NET MVC"                  src="https://img.shields.io/badge/ASP.NET MVC-D00000.svg"></a>
     <a href="https://en.wikipedia.org/wiki/ASP.NET_Web_API">                    <img alt="ASP.NET Web API"              src="https://img.shields.io/badge/ASP.NET Web API-245227.svg"></a>
     <a href="https://en.wikipedia.org/wiki/Windows_Communication_Foundation">   <img alt="WCF"                          src="https://img.shields.io/badge/WCF-14354C.svg"></a>
     <a href="https://lumen.laravel.com/">                                       <img alt="Lumen"                        src="https://img.shields.io/badge/Lumen-85019b.svg"></a>
@@ -191,7 +191,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
 <p>
     <a href="https://www.mongodb.com/">                                 <img alt="MongoDB"                  src="https://img.shields.io/badge/MongoDB-14354C.svg"></a>
     <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server">       <img alt="Microsoft SQL Server"     src="https://img.shields.io/badge/Microsoft SQL Server-3471e3.svg"></a>
-    <a href="https://cloud.google.com/sql">                             <img alt="Cloud SQL (GCP)"          src="https://img.shields.io/badge/Cloud SQL (GCP)-62254b.svg"></a>
+    <a href="https://cloud.google.com/sql">                             <img alt="Cloud SQL (GCP)"          src="https://img.shields.io/badge/Cloud SQL (GCP)-D00000.svg"></a>
     <a href="https://www.mysql.com/">                                   <img alt="MySQL"                    src="https://img.shields.io/badge/MySQL-245227.svg"></a>
     <a href="https://www.postgresql.org/">                              <img alt="PostgreSQL"               src="https://img.shields.io/badge/PostgreSQL-FF6F00.svg"></a>
     <a href="https://neo4j.com/">                                       <img alt="Neo4j"                    src="https://img.shields.io/badge/Neo4j-14354C.svg"></a>
@@ -203,7 +203,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
 <p>
     <a href="https://kubernetes.io/">               <img alt="Kubernetes"               src="https://img.shields.io/badge/Kubernetes-3471e3.svg"></a>
     <a href="https://www.docker.com/">              <img alt="Docker"                   src="https://img.shields.io/badge/Docker-a45969.svg"></a>
-    <a href="https://helm.sh/">                     <img alt="Helm"                     src="https://img.shields.io/badge/Helm-62254b.svg"></a>
+    <a href="https://helm.sh/">                     <img alt="Helm"                     src="https://img.shields.io/badge/Helm-D00000.svg"></a>
     <a href="https://cloud.google.com">             <img alt="Google Cloud Platform"    src="https://img.shields.io/badge/Google Cloud Platform-245227.svg"></a>
     <a href="https://www.heroku.com/">              <img alt="Heroku"                   src="https://img.shields.io/badge/Heroku-14354C.svg"></a>
     <a href="https://docs.docker.com/compose/">     <img alt="Docker Compose"           src="https://img.shields.io/badge/Docker Compose-FF6F00.svg"></a>
@@ -215,7 +215,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
 <p>
    <a href="https://en.wikipedia.org/wiki/Linux">                                   <img alt="GNU/Linux"                               src="https://img.shields.io/badge/GNU/Linux-85019b.svg"></a>
    <a href="https://code.visualstudio.com/">                                        <img alt="Visual Studio Code"                      src="https://img.shields.io/badge/Visual Studio Code-a45969.svg"></a>
-   <a href="https://www.jetbrains.com/pycharm">                                     <img alt="JetBrains PyCharm"                       src="https://img.shields.io/badge/JetBrains PyCharm-62254b.svg"></a>
+   <a href="https://www.jetbrains.com/pycharm">                                     <img alt="JetBrains PyCharm"                       src="https://img.shields.io/badge/JetBrains PyCharm-D00000.svg"></a>
    <a href="https://github.com/">                                                   <img alt="GitHub"                                  src="https://img.shields.io/badge/GitHub-3471e3.svg"></a>
    <a href="https://www.anaconda.com/">                                             <img alt="Anaconda"                                src="https://img.shields.io/badge/Anaconda-0f0ba7.svg"></a>
    <a href="https://prometheus.io/">                                                <img alt="Prometheus"                              src="https://img.shields.io/badge/Prometheus-245227.svg"></a>
@@ -223,14 +223,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
    <a href="https://git-scm.com/">                                                  <img alt="Git"                                     src="https://img.shields.io/badge/Git-0f0ba7.svg"></a>
    <a href="https://mybinder.org/">                                                 <img alt="Binder"                                  src="https://img.shields.io/badge/Binder-85019b.svg"></a>
    <a href="https://swagger.io/">                                                   <img alt="Swagger"                                 src="https://img.shields.io/badge/Swagger-a45969.svg"></a>
-   <a href="https://readthedocs.org/">                                              <img alt="Read The Docs"                           src="https://img.shields.io/badge/Read The Docs-62254b.svg"></a>
+   <a href="https://readthedocs.org/">                                              <img alt="Read The Docs"                           src="https://img.shields.io/badge/Read The Docs-D00000.svg"></a>
    <a href="https://www.sphinx-doc.org/">                                           <img alt="Sphinx"                                  src="https://img.shields.io/badge/Sphinx-3471e3.svg"></a>
    <a href="https://grafana.com/">                                                  <img alt="Grafana"                                 src="https://img.shields.io/badge/Grafana-0f0ba7.svg"></a>
    <a href="https://wordpress.org/">                                                <img alt="Wordpress"                               src="https://img.shields.io/badge/Wordpress-245227.svg"></a>
    <a href="https://jupyter.org/">                                                  <img alt="Jupyter"                                 src="https://img.shields.io/badge/Jupyter-FF6F00.svg"></a>
    <a href="https://www.postman.com/">                                              <img alt="Postman"                                 src="https://img.shields.io/badge/Postman-85019b.svg"></a>
    <a href="https://www.gnu.org/software/gettext/">                                 <img alt="gettext"                                 src="https://img.shields.io/badge/gettext-a45969.svg"></a>
-   <a href="https://en.wikipedia.org/wiki/LIBSVM">                                  <img alt="LIBSVM"                                  src="https://img.shields.io/badge/LIBSVM-62254b.svg"></a>
+   <a href="https://en.wikipedia.org/wiki/LIBSVM">                                  <img alt="LIBSVM"                                  src="https://img.shields.io/badge/LIBSVM-D00000.svg"></a>
    <a href="https://scikit-learn-laboratory.readthedocs.io/">                       <img alt="SciKit-Learn Laboratory (SKLL)"          src="https://img.shields.io/badge/SciKit--Learn Laboratory (SKLL)-3471e3.svg"></a>
    <a href="https://konghq.com/">                                                   <img alt="Kong"                                    src="https://img.shields.io/badge/Kong-0f0ba7.svg"></a>
    <a href="https://kongdash.in/">                                                  <img alt="KongDash"                                src="https://img.shields.io/badge/KongDash-245227.svg"></a>
@@ -243,14 +243,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
    <a href="https://doc.qt.io/qt-5/qtlinguist-index.html">                          <img alt="Qt Linguist"                             src="https://img.shields.io/badge/Qt Linguist-FF6F00.svg"></a>
    <a href="https://www.microsoft.com/en-us/windows">                               <img alt="Microsoft Windows"                       src="https://img.shields.io/badge/Microsoft Windows-85019b.svg"></a>
    <a href="https://www.libreoffice.org/">                                          <img alt="LibreOffice"                             src="https://img.shields.io/badge/LibreOffice-a45969.svg"></a>
-   <a href="https://www.office.com/">                                               <img alt="Microsoft Office"                        src="https://img.shields.io/badge/Microsoft Office-62254b.svg"></a>
+   <a href="https://www.office.com/">                                               <img alt="Microsoft Office"                        src="https://img.shields.io/badge/Microsoft Office-D00000.svg"></a>
    <a href="https://www.gnu.org/software/emacs/">                                   <img alt="Emacs"                                   src="https://img.shields.io/badge/Emacs-3471e3.svg"></a>
    <a href="https://about.gitlab.com/">                                             <img alt="GitLab"                                  src="https://img.shields.io/badge/GitLab-0f0ba7.svg"></a>
    <a href="https://www.nongnu.org/cvs/">                                           <img alt="CVS"                                     src="https://img.shields.io/badge/CVS-245227.svg"></a>
    <a href="https://subversion.apache.org/">                                        <img alt="Subversion"                              src="https://img.shields.io/badge/Subversion-FF6F00.svg"></a>
    <a href="https://tortoisesvn.net/">                                              <img alt="Tortoise SVN"                            src="https://img.shields.io/badge/Tortoise SVn-85019b.svg"></a>
    <a href="https://www.nuget.org/">                                                <img alt="NuGet"                                   src="https://img.shields.io/badge/NuGet-a45969.svg"></a>
-   <a href="https://www.jetbrains.com/phpstorm/">                                   <img alt="JetBrains PhpStorm"                      src="https://img.shields.io/badge/JetBrains PhpStorm-62254b.svg"></a>
+   <a href="https://www.jetbrains.com/phpstorm/">                                   <img alt="JetBrains PhpStorm"                      src="https://img.shields.io/badge/JetBrains PhpStorm-D00000.svg"></a>
    <a href="https://doc.qt.io/">                                                    <img alt="Qt SDK"                                  src="https://img.shields.io/badge/Qt SDK-3471e3.svg"></a>
    <a href="https://visualstudio.microsoft.com/">                                   <img alt="Visual Studio"                           src="https://img.shields.io/badge/Visual Studio-0f0ba7.svg"></a>
    <a href="https://en.wikipedia.org/wiki/Sandcastle_(software)">                   <img alt="Sandcastle"                              src="https://img.shields.io/badge/Sandcastle-245227.svg"></a>
