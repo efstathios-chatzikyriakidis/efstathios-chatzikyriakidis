@@ -101,7 +101,7 @@ You can find my curriculum vitae at [CV](https://efxa.org/curriculum-vitae/).
 
 ## ✍️ Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [efxa.org](https://efxa.org/).
+Apart from coding, I also maintain a blog - you can find my articles on my [website](https://efxa.org/).
 
 ## 🛠️ Tech Skills
 
