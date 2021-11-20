@@ -119,7 +119,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Aphp">            <img alt="PHP"              src="https://img.shields.io/badge/PHP-14354C.svg"></a>
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Asql">            <img alt="SQL"              src="https://img.shields.io/badge/SQL-a45969.svg"></a>
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Axml">            <img alt="XML"              src="https://img.shields.io/badge/XML-FF6F00.svg"></a>
-    <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Ajson">           <img alt="JSON"             src="https://img.shields.io/badge/JSOn-85019b.svg"></a>
+    <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Ajson">           <img alt="JSON"             src="https://img.shields.io/badge/JSON-85019b.svg"></a>
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Ajavascript">     <img alt="JavaScript"       src="https://img.shields.io/badge/JavaScript-0f0ba7.svg"></a>
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+extension%3Atexi">          <img alt="Texinfo"          src="https://img.shields.io/badge/Texinfo-14354C.svg"></a>
     <a href="https://github.com/search?q=user%3Aefstathios-chatzikyriakidis+language%3Aawk">            <img alt="AWK"              src="https://img.shields.io/badge/AWK-3471e3.svg"></a>
