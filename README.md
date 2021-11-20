@@ -237,7 +237,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
    <a href="https://getfirebug.com/">                                               <img alt="Firebug"                                 src="https://img.shields.io/badge/Firebug-FF6F00.svg"></a>
    <a href="https://jmeter.apache.org/">                                            <img alt="JMeter"                                  src="https://img.shields.io/badge/JMeter-85019b.svg"></a>
    <a href="https://www.soapui.org/">                                               <img alt="SoapUI"                                  src="https://img.shields.io/badge/SoapUI-a45969.svg"></a>
-   <a href="https://www.openssh.com/">                                              <img alt="OpenSSH"                                 src="https://img.shields.io/badge/OpenSSh-3471e3.svg"></a>
+   <a href="https://www.openssh.com/">                                              <img alt="OpenSSH"                                 src="https://img.shields.io/badge/OpenSSH-3471e3.svg"></a>
    <a href="https://gulpjs.com/">                                                   <img alt="Gulp"                                    src="https://img.shields.io/badge/Gulp-0f0ba7.svg"></a>
    <a href="https://www.iis.net/">                                                  <img alt="IIS"                                     src="https://img.shields.io/badge/IIS-245227.svg"></a>
    <a href="https://doc.qt.io/qt-5/qtlinguist-index.html">                          <img alt="Qt Linguist"                             src="https://img.shields.io/badge/Qt Linguist-FF6F00.svg"></a>
