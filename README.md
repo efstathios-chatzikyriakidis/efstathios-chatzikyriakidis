@@ -210,7 +210,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [webs
 ### 💻 Software and Tools
 
 <p>
-   <a href="https://www.kernel.org/">                                               <img alt="Linux"                               src="https://img.shields.io/badge/GNU/Linux-85019b.svg"></a>
+   <a href="https://www.kernel.org/">                                               <img alt="Linux"                                   src="https://img.shields.io/badge/Linux-85019b.svg"></a>
    <a href="https://code.visualstudio.com/">                                        <img alt="Visual Studio Code"                      src="https://img.shields.io/badge/Visual Studio Code-a45969.svg"></a>
    <a href="https://www.jetbrains.com/pycharm">                                     <img alt="JetBrains PyCharm"                       src="https://img.shields.io/badge/JetBrains PyCharm-D00000.svg"></a>
    <a href="https://github.com/">                                                   <img alt="GitHub"                                  src="https://img.shields.io/badge/GitHub-3471e3.svg"></a>
