@@ -29,8 +29,8 @@ class EfstathiosChatzikyriakidis:
         self.pronouns = ("He", "Him")
 
         self.roles = (
-          "Machine Learning Engineer",
-          "Deep Learning Engineer",
+          "Senior Machine Learning Engineer",
+          "Senior Deep Learning Engineer",
           "Senior Software Engineer"
         )
 
