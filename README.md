@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/efstathios-chatzikyriakidis?label=Follow&style=social" hspace="5">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=efstathios.chatzikyriakidis.github" hspace="5">
 </p>
 
 # 👋 Hello, folks!
